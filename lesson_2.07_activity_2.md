@@ -10,4 +10,7 @@
   group by Status
   order by Average asc;
   ```
-  You objective is to find the maximum and the minimum in each Status category. 
+  
+  Your objective is to find the maximum and the minimum in each `Status` category. 
+  
+  
